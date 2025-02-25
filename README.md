@@ -39,7 +39,7 @@ Total Cost = 800 + (18 × 60) + 750 = £2,630
 
 Clone this repository and assemble the program:
 
-git clone "https://github.com/yourusername/asbestos-roof-cost-calculator.git"
+git clone https://github.com/calculatorking4534/asbestos-garage-roof-calculator-assembly.git
 cd asbestos-roof-cost-calculator
 nasm -f elf64 calculator.asm -o calculator.o
 ld -o calculator calculator.o
@@ -82,6 +82,3 @@ This project is licensed under the MIT License.
 
 👨‍💻 References
 Inspired by Excel Roofing & Asbestos' handy guide to garage roof replacement costs https://asbestos-roofing.co.uk/asbestos-roof-replacements/
-
-
-
